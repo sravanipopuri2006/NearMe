@@ -189,6 +189,46 @@ So don't compromise on your health. Choose Bisleri packaged drinking water and e
 </body>
 </html>
 ```
+## acs.html
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styleacs.css">
+    
+</head>
+<body>
+    <h1>
+        <p>WELCOME TO ACS MEDICAL COLLEGE AND HOSPITAL</p>
+    </h1>
+
+    <hr>
+    <br>
+    <div class="photo">
+    <img src="acsimg.webp" alt="photo">
+</div>
+<hr>
+<h2>
+    ABOUT ACS
+</h2>
+<h3>
+    Being a developing nation, health and hygiene are mainstays in terms of national priority. With so many people living below the poverty line, statistics reveal that unhealthy living conditions will lead to disease and epidemics, unless a proactive approach by the medical community is put into action. Keeping these in mind, Dr.M.G.R.Educational and Research Institute, Deemed to be University has established A.C.S.Medical College and hospital in 2008. Besides imparting necessary medical and technological skills,
+    To create able physicians of global relevance with right proportions of passion and compassion
+To provide quality medical care to all sectors of the society at a cost the community can afford
+To produce top notch doctors who are capable of performing well in diverse professional and cultural settings
+To provide worldclass medical education with opportunities for need based research and to provide holistic health care services to the community.
+To use advances medical technologies in medical education and mould our students as experts in medical profession and mould our students as experts in medical profession.
+</h3>
+
+
+        
+        
+</body>
+</html>
+```
 
 
 
@@ -207,6 +247,9 @@ So don't compromise on your health. Choose Bisleri packaged drinking water and e
 
 ## Svv_madapam.html
 ![image](https://github.com/sravanipopuri2006/NearMe/assets/139778301/0436f81e-3e43-4ff2-8df4-62e341bb72d0)
+## acs.html
+![image](https://github.com/sravanipopuri2006/NearMe/assets/139778301/5e73f3f7-d7eb-4435-8a82-974a4119a23f)
+
 
 
 
